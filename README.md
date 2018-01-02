@@ -1,2 +1,0 @@
-# elango
-practice
